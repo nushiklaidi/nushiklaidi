@@ -1,4 +1,4 @@
-### Hi there 👋
+### Klaidi Nushi
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nushiklaidi&theme=blueberry&show_icons=true" />
 
